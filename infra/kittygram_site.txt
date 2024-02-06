@@ -1,0 +1,5 @@
+IP: 62.84.121.33;
+name_taski: https://koenig-taski.ddns.net;
+name_kittygram: https://zelek-kittygram.ddns.net;
+login: admin;
+password: admin;
